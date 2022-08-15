@@ -330,7 +330,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.7":
+"autoprefixer@npm:10.4.8":
   version: 10.4.8
   resolution: "autoprefixer@npm:10.4.8"
   dependencies:
@@ -1434,7 +1434,7 @@ next@latest:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.4.14":
+"postcss@npm:8.4.16, postcss@npm:^8.4.14":
   version: 8.4.16
   resolution: "postcss@npm:8.4.16"
   dependencies:
@@ -1584,12 +1584,12 @@ next@latest:
     "@types/node": 17.0.35
     "@types/react": 18.0.9
     "@types/react-dom": 18.0.5
-    autoprefixer: ^10.4.7
+    autoprefixer: 10.4.8
     next: latest
-    postcss: ^8.4.14
+    postcss: 8.4.16
     react: 18.1.0
     react-dom: 18.1.0
-    tailwindcss: ^3.1.2
+    tailwindcss: 3.1.8
     typescript: 4.7.2
   languageName: unknown
   linkType: soft
@@ -1745,7 +1745,7 @@ next@latest:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^3.1.2":
+"tailwindcss@npm:3.1.8":
   version: 3.1.8
   resolution: "tailwindcss@npm:3.1.8"
   dependencies:
